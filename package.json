@@ -2,7 +2,7 @@
   "name": "reacttrue",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stozzek.github.io/youtubeApi/",
+  "homepage": "https://stozzek.github.io/youtubeFetchApiReact/",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "gh-pages": "^1.0.0",
