@@ -5,7 +5,7 @@
   "homepage": "https://stozzek.github.io/youtubeFetchApiReact/",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "jquery": "^3.2.1",
     "react": "^16.0.0",
     "react-bootstrap": "^0.31.3",
@@ -13,8 +13,8 @@
     "react-scripts": "1.0.14"
   },
   "scripts": {
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
