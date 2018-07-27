@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-weight: 700;
+}
+
+div .col-md-6 {
+  margin: 0;
+  padding:0;
+}
